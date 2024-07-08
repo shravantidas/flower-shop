@@ -15,6 +15,18 @@ button{
     background-color: #e55473;
     color: white;
 }
+.text-center{
+    text-align: center;
+}
+.pink{
+    background-color: #f2dee8;
+}
+.blue{
+    background-color: #daf0f1;
+}
+.yellow{
+    background-color: #e4ecdc;
+}
 header{
     background-color: #fceef1;
     width: 1264px;
@@ -33,7 +45,7 @@ font-weight: 700;
 padding-bottom: 25px;
 }
 .header-content .header-description p{
-    font-size: 16px;
+
     padding-bottom: 20px;
 }
 .header-content .header-description button{
@@ -42,3 +54,32 @@ padding-bottom: 25px;
     border-radius: 5px;
    font-weight: bold;
 }
+.featured-section{
+    padding-top: 100px;
+}
+.featured-content h3{
+    padding-bottom: 10px;
+}
+.featured-content p{
+padding-bottom: 60px;
+}
+.featured-images{
+    display: flex;
+    margin: 0 20%;
+}
+.featured-images .featured-image h5{
+    margin-top:10px ;
+    text-decoration: underline;
+    color: #272727;
+}
+.featured-images .featured-image img{
+    width: 220px;
+    height: 240px;
+    border-radius: 50% 50% 0 0;
+    padding: 40px 25px 0;
+    margin-right: 50px;
+}
+
+
+
+
